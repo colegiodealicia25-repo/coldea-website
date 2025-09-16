@@ -23,8 +23,8 @@ export default function About() {
             <p className="text-gray-700 mb-6 leading-relaxed">
               Located in the vibrant municipality of Alicia, Bohol, our institution stands as a beacon 
               of educational excellence in this historic community. Alicia, formerly known as Batuanon, 
-              is home to 24,374 residents who celebrate their rich heritage during two annual town 
-              fiestas — Batuanon on June 29 and Batuanan on July 25–26.
+              is home to 24,374 residents who celebrate their rich heritage during the annual town 
+              fiesta — Batuanan on July 25–26.
             </p>
             <p className="text-gray-700 mb-6 leading-relaxed">
               We are proud to be part of this thriving community, contributing to its growth through 
