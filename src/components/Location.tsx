@@ -39,12 +39,20 @@ export default function Location() {
               </div>
 
               <div className="bg-white p-6 rounded-lg shadow-md">
-                <div className="flex items-center space-x-3 mb-3">
+                <div className="flex items-center space-x-3 mb-4">
                   <Calendar size={24} className="text-coldea-gold" />
-                  <h4 className="font-semibold text-gray-900">Town Fiesta</h4>
+                  <h4 className="font-semibold text-gray-900">Town Fiestas</h4>
                 </div>
-                <p className="text-2xl font-bold text-coldea-gold">June 29</p>
-                <p className="text-sm text-gray-600">Annual Celebration</p>
+                <div className="space-y-3">
+                  <div>
+                    <p className="text-xl font-extrabold text-coldea-gold leading-none">June 29</p>
+                    <p className="text-sm text-gray-600">Batuanon</p>
+                  </div>
+                  <div className="border-t border-gray-100 pt-3">
+                    <p className="text-xl font-extrabold text-coldea-gold leading-none">July 25–26</p>
+                    <p className="text-sm text-gray-600">Batuanan</p>
+                  </div>
+                </div>
               </div>
             </div>
 
