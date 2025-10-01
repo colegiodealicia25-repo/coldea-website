@@ -164,7 +164,7 @@ export default function About() {
               <div className="bg-gradient-to-r from-coldea-green-light/10 to-coldea-gold-light/10 p-6 rounded-lg">
                 <h4 className="text-xl font-semibold text-gray-900 mb-4">Leadership & Vision</h4>
                 <p className="text-gray-700 leading-relaxed mb-4">
-                  The hiring of the College President became the first step to materialize the launch of ColDeA. The local government, along with its Human Resource Office Head, <strong>Ms. Karen Adaya</strong>, began preparing for the search for the College President, coordinating closely with CHEDRO 7.
+                  The hiring of the College President became the first step to materialize the launch of ColDeA. With the initiatives of the Office of the Municipal Mayor, and facilitated by the Human Resource Office, began preparing for the search for the College President, coordinating closely with CHEDRO 7.
                 </p>
                 <p className="text-gray-700 leading-relaxed mb-4">
                   Recognizing the transformative power of education, the first College President, <strong>Dr. Ma. Olga DC. Alvarez</strong> galvanized her team, divided into technical working groups, to work relentlessly in building enhancement, securing the recruitment of college key personnel, and meeting the requirements for its government permit application.
