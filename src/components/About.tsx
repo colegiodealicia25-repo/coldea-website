@@ -22,7 +22,7 @@ export default function About() {
             </h3>
             <p className="text-gray-700 mb-6 leading-relaxed">
               Located in the vibrant municipality of Alicia, Bohol, our institution stands as a beacon 
-              of educational excellence in this historic community. Alicia, formerly known as Batuanon, 
+              of educational excellence in this historic community. Alicia, formerly known as Batuanan, 
               is home to 24,374 residents who celebrate their rich heritage during the annual town 
               fiesta — Batuanan on July 25–26.
             </p>
@@ -170,7 +170,7 @@ export default function About() {
                   Recognizing the transformative power of education, the first College President, <strong>Dr. Ma. Olga DC. Alvarez</strong> galvanized her team, divided into technical working groups, to work relentlessly in building enhancement, securing the recruitment of college key personnel, and meeting the requirements for its government permit application.
                 </p>
                 <p className="text-gray-700 leading-relaxed">
-                  The college is set to launch in Academic Year 2026-2027, with two initial programs offering – <strong>Bachelor in Technical-Vocational Teacher Education major in Computer Programming</strong> and <strong>Bachelor of Science in System Information</strong>, once the official permit is received from the Commission on Higher Education.
+                  The college is set to launch in Academic Year 2026-2027, with two initial programs offering – <strong>Bachelor in Technical-Vocational Teacher Education major in Computer Programming</strong> and <strong>Bachelor of Science in Information System</strong>, once the official permit is received from the Commission on Higher Education.
                 </p>
               </div>
             </div>

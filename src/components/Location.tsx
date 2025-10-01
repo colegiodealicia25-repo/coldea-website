@@ -23,7 +23,7 @@ export default function Location() {
             
             <p className="text-gray-700 mb-6 leading-relaxed">
               Nestled in the scenic province of Bohol, the municipality of Alicia offers a perfect 
-              blend of natural beauty and rich cultural heritage. Formerly known as Batuanon, 
+              blend of natural beauty and rich cultural heritage. Formerly known as Batuanan, 
               this vibrant community has been renamed to honor its historical significance and 
               bright future.
             </p>
