@@ -10,7 +10,7 @@ export default function Programs() {
             Academic Programs
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Innovative degree programs designed for the future, launching in 2025
+            Innovative degree programs designed for the future, launching in 2026
           </p>
         </div>
 

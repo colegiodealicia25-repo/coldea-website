@@ -72,7 +72,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail size={20} className="text-coldea-gold flex-shrink-0" />
-                <p className="text-gray-300">info@coldeadealicia.edu.ph</p>
+                <p className="text-gray-300">info@colegiodealicia.com</p>
               </div>
             </div>
           </div>

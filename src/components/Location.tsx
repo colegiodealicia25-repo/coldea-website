@@ -129,8 +129,8 @@ export default function Location() {
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">Email Addresses</h4>
                     <p className="text-gray-700">
-                      General: info@coldeadealicia.edu.ph<br />
-                      Admissions: admissions@coldeadealicia.edu.ph
+                      General: info@colegiodealicia.com<br />
+                      Admissions: admissions@colegiodealicia.com
                     </p>
                   </div>
                 </div>
