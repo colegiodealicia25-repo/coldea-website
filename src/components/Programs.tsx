@@ -183,6 +183,14 @@ export default function Programs() {
             <button className="border-2 border-coldea-gold text-coldea-gold px-8 py-3 rounded-lg font-semibold hover:bg-coldea-gold hover:text-coldea-green-dark transition-colors">
               Schedule Campus Visit
             </button>
+            <a
+              href="https://mis.colegiodealicia.com/pre-listing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-white text-coldea-green-dark px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors"
+            >
+              Pre-Register Now
+            </a>
           </div>
         </div>
       </div>

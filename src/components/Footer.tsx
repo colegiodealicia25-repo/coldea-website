@@ -41,6 +41,16 @@ export default function Footer() {
                 </a>
               </li>
               <li>
+                <a
+                  href="https://mis.colegiodealicia.com/pre-listing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-300 hover:text-white transition-colors"
+                >
+                  Pre-Register
+                </a>
+              </li>
+              <li>
                 <a href="#location" className="text-gray-300 hover:text-white transition-colors">
                   Location
                 </a>

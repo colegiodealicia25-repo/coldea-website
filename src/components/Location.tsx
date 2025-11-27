@@ -151,14 +151,31 @@ export default function Location() {
               </div>
 
               <div className="mt-8 pt-6 border-t border-gray-200">
+                <h4 className="font-semibold text-gray-900 mb-4">Campus Location Map</h4>
+                <div className="rounded-lg overflow-hidden border border-gray-200 mb-6">
+                  <iframe
+                    title="Colegio De Alicia - Google Map"
+                    src="https://www.google.com/maps?q=9.890998,124.446634&z=15&output=embed"
+                    width="100%"
+                    height="260"
+                    loading="lazy"
+                    referrerPolicy="no-referrer-when-downgrade"
+                    allowFullScreen
+                  ></iframe>
+                </div>
                 <h4 className="font-semibold text-gray-900 mb-4">Get Directions</h4>
                 <p className="text-gray-700 mb-4">
                   Alicia is accessible by various transportation options within Bohol. 
                   Detailed directions and transportation guides will be provided upon enrollment.
                 </p>
-                <button className="w-full bg-coldea-green text-white py-3 rounded-lg font-semibold hover:bg-coldea-green-dark transition-colors">
-                  Request Detailed Directions
-                </button>
+                <a
+                  href="https://maps.app.goo.gl/mpR8oUbq8LE7gBAw5"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block w-full bg-coldea-green text-white py-3 rounded-lg font-semibold hover:bg-coldea-green-dark transition-colors text-center"
+                >
+                  Open Google Maps
+                </a>
               </div>
             </div>
 

@@ -76,7 +76,7 @@ export default function About() {
               </div>
               <h4 className="text-lg font-semibold text-gray-900 mb-2">Innovation</h4>
               <p className="text-gray-600 text-sm">
-                Modern programs launching 2025
+                Modern programs launching 2026
               </p>
             </div>
           </div>

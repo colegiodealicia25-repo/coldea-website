@@ -31,7 +31,7 @@ export default function Hero() {
             
             <p className="text-lg md:text-xl text-white mb-8 max-w-2xl mx-auto lg:mx-0">
               Empowering the next generation with innovative education programs. 
-              Starting 2025, we're proud to offer cutting-edge degree programs in 
+              Starting 2026, we're proud to offer cutting-edge degree programs in 
               Information Systems and Technical Vocational Teacher Education.
             </p>
             
@@ -48,6 +48,14 @@ export default function Hero() {
               >
                 Contact Us
               </a>
+              <a
+                href="https://mis.colegiodealicia.com/pre-listing"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-coldea-green text-white px-8 py-3 rounded-lg font-semibold hover:bg-coldea-green-dark transition-colors inline-flex items-center justify-center"
+              >
+                Pre-Register
+              </a>
             </div>
           </div>
           
@@ -59,7 +67,7 @@ export default function Hero() {
                   <GraduationCap size={48} className="text-coldea-green-dark" />
                 </div>
                 
-                <h3 className="text-2xl font-bold mb-4">New Programs Starting 2025</h3>
+                <h3 className="text-2xl font-bold mb-4">New Programs Starting 2026</h3>
                 
                 <div className="space-y-4">
                   <div className="bg-white/10 rounded-lg p-4">
