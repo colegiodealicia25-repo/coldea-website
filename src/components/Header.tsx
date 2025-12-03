@@ -15,11 +15,11 @@ export default function Header() {
         <div className="flex justify-between items-center py-4">
           {/* Logo and School Name */}
           <div className="flex items-center space-x-3">
-            <div className="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 flex items-center justify-center">
+            <div className="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 flex items-center justify-center rounded-full overflow-hidden">
               <img 
                 src={coldeaLogo} 
                 alt="Colegio De Alicia Logo" 
-                className="w-full h-full object-contain object-center"
+                className="w-full h-full object-cover object-center transform scale-110"
                 loading="lazy"
               />
             </div>
