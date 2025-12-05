@@ -22,6 +22,16 @@
   </head>
   <body>
     <div id="root"></div>
+
+    <style>
+      #chat-launcher{position:fixed;right:16px;bottom:16px;display:flex;align-items:center;gap:8px;z-index:9999;text-decoration:none}
+      #chat-label{background:#0084FF;color:#fff;padding:10px 12px;border-radius:12px;box-shadow:0 8px 20px rgba(0,0,0,.15);font:600 14px/1.2 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;white-space:nowrap;display:inline-flex;align-items:center}
+      #chat-logo{width:20px;height:20px;border-radius:50%;margin-left:8px;border:1px solid rgba(255,255,255,.7);background:#fff;box-shadow:0 2px 6px rgba(0,0,0,.12)}
+      #chat-launcher:hover #chat-label{filter:brightness(1.05)}
+    </style>
+    <a id="chat-launcher" href="https://m.me/610168502180630" target="_blank" rel="noopener" aria-label="Message us on FB">
+      <span id="chat-label">Message us on FB<img id="chat-logo" src="/coldea-logo-2.png" alt="Colegio de Alicia logo"/></span>
+    </a>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
