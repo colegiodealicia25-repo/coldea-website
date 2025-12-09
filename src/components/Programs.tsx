@@ -189,7 +189,7 @@ export default function Programs() {
               rel="noopener noreferrer"
               className="bg-white text-coldea-green-dark px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors"
             >
-              Pre-Register Now
+              Pre-Listing Now
             </a>
           </div>
         </div>

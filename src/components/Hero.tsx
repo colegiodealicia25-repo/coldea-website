@@ -54,11 +54,10 @@ export default function Hero() {
                 rel="noopener noreferrer"
                 className="bg-coldea-green text-white px-8 py-3 rounded-lg font-semibold hover:bg-coldea-green-dark transition-colors inline-flex items-center justify-center"
               >
-                Pre-Register
+                Pre-Listing
               </a>
             </div>
           </div>
-          
           {/* Visual Element */}
           <div className="relative">
             <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 border border-white/20">

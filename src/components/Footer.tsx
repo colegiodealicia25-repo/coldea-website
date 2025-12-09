@@ -47,7 +47,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="text-gray-300 hover:text-white transition-colors"
                 >
-                  Pre-Register
+                  Pre-Listing
                 </a>
               </li>
               <li>
