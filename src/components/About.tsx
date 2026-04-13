@@ -32,7 +32,7 @@ export default function About() {
               extends beyond academics to fostering community engagement and cultural preservation.
             </p>
             <p className="text-gray-700 leading-relaxed">
-              As we prepare to launch our new degree programs in 2025, we remain dedicated to 
+              As we prepare to welcome our first college intake for Academic Year 2026-2027, we remain dedicated to 
               providing accessible, innovative, and industry-relevant education that meets the 
               evolving needs of our students and the broader Bohol region.
             </p>
@@ -76,7 +76,7 @@ export default function About() {
               </div>
               <h4 className="text-lg font-semibold text-gray-900 mb-2">Innovation</h4>
               <p className="text-gray-600 text-sm">
-                Modern programs launching 2026
+                Programs launching AY 2026-2027
               </p>
             </div>
           </div>
@@ -153,7 +153,7 @@ export default function About() {
                 <div className="bg-gray-50 p-6 rounded-lg">
                   <h5 className="font-semibold text-gray-900 mb-2">2026-2027 - Academic Launch</h5>
                   <p className="text-gray-700 text-sm">
-                    Planned launch with two initial programs pending official permit from CHED.
+                    Planned launch with initial programs, beginning with permitted offerings and continuing to expand as approvals are secured.
                   </p>
                 </div>
               </div>
@@ -170,7 +170,7 @@ export default function About() {
                   Recognizing the transformative power of education, the first College President, <strong>Dr. Ma. Olga DC. Alvarez</strong> galvanized her team, divided into technical working groups, to work relentlessly in building enhancement, securing the recruitment of college key personnel, and meeting the requirements for its government permit application.
                 </p>
                 <p className="text-gray-700 leading-relaxed">
-                  The college is set to launch in Academic Year 2026-2027, with two initial programs offering – <strong>Bachelor in Technical-Vocational Teacher Education major in Computer Programming</strong> and <strong>Bachelor of Science in Information System</strong>, once the official permit is received from the Commission on Higher Education.
+                  The college is set to launch in Academic Year 2026-2027, with initial programs including <strong>Bachelor in Technical-Vocational Teacher Education major in Computer Programming</strong> (now permitted and open for enrollment), and <strong>Bachelor of Science in Information System</strong> as additional offerings progress through the approval process.
                 </p>
               </div>
             </div>

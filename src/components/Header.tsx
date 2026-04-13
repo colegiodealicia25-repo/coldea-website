@@ -40,6 +40,9 @@ export default function Header() {
             <a href="#programs" className="text-white hover:text-coldea-gold font-medium transition-colors">
               Programs
             </a>
+            <a href="#admissions" className="text-white hover:text-coldea-gold font-medium transition-colors">
+              Admissions
+            </a>
             <a href="#location" className="text-white hover:text-coldea-gold font-medium transition-colors">
               Location
             </a>
@@ -82,6 +85,13 @@ export default function Header() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 Programs
+              </a>
+              <a
+                href="#admissions"
+                className="text-white hover:text-coldea-gold font-medium transition-colors"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                Admissions
               </a>
               <a
                 href="#location"

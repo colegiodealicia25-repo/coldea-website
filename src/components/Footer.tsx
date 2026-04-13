@@ -14,7 +14,7 @@ export default function Footer() {
               <h3 className="text-xl font-bold">Colegio De Alicia</h3>
             </div>
             <p className="text-gray-300 mb-4">
-              Empowering students in Alicia, Bohol with quality education and innovative programs in Information Systems and Technical Vocational Teacher Education.
+              Now accepting enrollees for the first year of operations in Academic Year 2026-2027 with future-focused programs for Alicia and nearby communities.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-300 hover:text-coldea-gold transition-colors">
@@ -41,13 +41,18 @@ export default function Footer() {
                 </a>
               </li>
               <li>
+                <a href="#admissions" className="text-gray-300 hover:text-white transition-colors">
+                  Admissions
+                </a>
+              </li>
+              <li>
                 <a
                   href="https://mis.colegiodealicia.com/pre-listing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-300 hover:text-white transition-colors"
                 >
-                  Pre-Listing
+                  Enroll Now
                 </a>
               </li>
               <li>
@@ -82,7 +87,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail size={20} className="text-coldea-gold flex-shrink-0" />
-                <p className="text-gray-300">info@colegiodealicia.com</p>
+                <p className="text-gray-300">coldeaofficiallaunching@gmail.com</p>
               </div>
             </div>
           </div>

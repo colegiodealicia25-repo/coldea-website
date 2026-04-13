@@ -88,7 +88,7 @@ export default function Location() {
           </div>
 
           {/* Contact Information */}
-          <div>
+          <div id="contact">
             <div className="bg-white rounded-2xl p-8 shadow-lg">
               <h3 className="text-2xl font-bold text-gray-900 mb-6">
                 Contact Information
@@ -129,8 +129,7 @@ export default function Location() {
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">Email Addresses</h4>
                     <p className="text-gray-700">
-                      General: info@colegiodealicia.com<br />
-                      Admissions: admissions@colegiodealicia.com
+                      Official Inquiries: coldeaofficiallaunching@gmail.com
                     </p>
                   </div>
                 </div>
@@ -179,31 +178,27 @@ export default function Location() {
               </div>
             </div>
 
-            {/* Quick Contact Form */}
+            {/* Inquiry Panel */}
             <div className="mt-8 bg-gradient-to-br from-blue-600 to-blue-700 rounded-2xl p-8 text-white">
-              <h3 className="text-xl font-bold mb-4">Quick Inquiry</h3>
+              <h3 className="text-xl font-bold mb-4">For Inquiries and Enrollment</h3>
               <p className="mb-6 opacity-90">
-                Have questions? Send us a message and we'll get back to you soon.
+                Visit the Office of the School Registrar, message our official Facebook page, or email us for enrollment concerns.
               </p>
               <div className="space-y-4">
-                <input 
-                  type="text" 
-                  placeholder="Your Name" 
-                  className="w-full px-4 py-3 rounded-lg text-gray-900 placeholder-gray-500"
-                />
-                <input 
-                  type="email" 
-                  placeholder="Your Email" 
-                  className="w-full px-4 py-3 rounded-lg text-gray-900 placeholder-gray-500"
-                />
-                <textarea 
-                  placeholder="Your Message" 
-                  rows={4}
-                  className="w-full px-4 py-3 rounded-lg text-gray-900 placeholder-gray-500 resize-none"
-                ></textarea>
-                <button className="w-full bg-white text-blue-600 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
-                  Send Message
-                </button>
+                <div className="bg-white/10 rounded-lg p-4">
+                  <p className="font-semibold">Office of the School Registrar</p>
+                  <p className="text-sm opacity-90">Visit our campus during office hours for admissions and enrollment assistance.</p>
+                </div>
+                <div className="bg-white/10 rounded-lg p-4">
+                  <p className="font-semibold">Official Facebook Page</p>
+                  <p className="text-sm opacity-90">Search for Colegio de Alicia and send us a direct message for updates.</p>
+                </div>
+                <a
+                  href="mailto:coldeaofficiallaunching@gmail.com"
+                  className="block w-full bg-white text-blue-700 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors text-center"
+                >
+                  Email Official Inquiries
+                </a>
               </div>
             </div>
           </div>
