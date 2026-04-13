@@ -153,7 +153,7 @@ export default function About() {
                 <div className="bg-gray-50 p-6 rounded-lg">
                   <h5 className="font-semibold text-gray-900 mb-2">2026-2027 - Academic Launch</h5>
                   <p className="text-gray-700 text-sm">
-                    Planned launch with initial programs, beginning with permitted offerings and continuing to expand as approvals are secured.
+                    Planned launch for Academic Year 2026-2027 with both initial programs permitted and open for enrollment.
                   </p>
                 </div>
               </div>
@@ -170,7 +170,7 @@ export default function About() {
                   Recognizing the transformative power of education, the first College President, <strong>Dr. Ma. Olga DC. Alvarez</strong> galvanized her team, divided into technical working groups, to work relentlessly in building enhancement, securing the recruitment of college key personnel, and meeting the requirements for its government permit application.
                 </p>
                 <p className="text-gray-700 leading-relaxed">
-                  The college is set to launch in Academic Year 2026-2027, with initial programs including <strong>Bachelor in Technical-Vocational Teacher Education major in Computer Programming</strong> (now permitted and open for enrollment), and <strong>Bachelor of Science in Information System</strong> as additional offerings progress through the approval process.
+                  The college is set to launch in Academic Year 2026-2027, with both initial programs now permitted and open for enrollment: <strong>Bachelor in Technical-Vocational Teacher Education major in Computer Programming</strong> and <strong>Bachelor of Science in Information Systems</strong>.
                 </p>
               </div>
             </div>

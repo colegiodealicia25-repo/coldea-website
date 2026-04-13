@@ -25,6 +25,15 @@ export default function Programs() {
               <div>
                 <h3 className="text-2xl font-bold text-gray-900">Bachelor of Science in Information Systems</h3>
                 <p className="text-coldea-green font-semibold">BSIS - 4 Year Program</p>
+                <div className="flex flex-wrap gap-2 mt-3">
+                  <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-coldea-green-dark text-white">
+                    <BadgeCheck size={14} className="mr-1.5" />
+                    Permit Granted
+                  </span>
+                  <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-white text-coldea-green-dark border border-coldea-green-dark/20">
+                    Open for Enrollment
+                  </span>
+                </div>
               </div>
             </div>
 
