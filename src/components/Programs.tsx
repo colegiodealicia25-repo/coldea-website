@@ -289,27 +289,27 @@ export default function Programs() {
             </div>
 
             <div>
-              <h4 className="text-lg font-semibold text-gray-900 mb-4">Enrollment requirements</h4>
+              <h4 className="text-lg font-semibold text-gray-900 mb-4">Primary requirements upon enrollment</h4>
               <div className="grid grid-cols-1 gap-2">
                 <div className="flex items-center space-x-2">
                   <CheckCircle size={16} className="text-coldea-green" />
-                  <span className="text-sm text-gray-700">Original Senior High School (SHS) report card</span>
+                  <span className="text-sm text-gray-700">Original Form 9 / Report Card</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <CheckCircle size={16} className="text-coldea-green" />
-                  <span className="text-sm text-gray-700">Photocopy of certificate of graduation or diploma</span>
+                  <span className="text-sm text-gray-700">Original good moral certificate</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <CheckCircle size={16} className="text-coldea-green" />
-                  <span className="text-sm text-gray-700">Original certificate of good moral character</span>
+                  <span className="text-sm text-gray-700">Certificate of graduation / diploma (photocopy)</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <CheckCircle size={16} className="text-coldea-green" />
-                  <span className="text-sm text-gray-700">Four (4) long brown envelopes with plastic cover</span>
+                  <span className="text-sm text-gray-700">Original PSA certificate</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <CheckCircle size={16} className="text-coldea-green" />
-                  <span className="text-sm text-gray-700">Three (3) recent 2x2 colored ID photos with white background, name, and signature</span>
+                  <span className="text-sm text-gray-700">Three (3) copies of recent 2x2 / passport picture</span>
                 </div>
               </div>
               <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-3">
